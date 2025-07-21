@@ -23,3 +23,6 @@ The game listens for user clicks on one of three buttons (rock, paper, or scisso
 
 ## Live Demo
 https://ethankotzer.github.io/rock-paper-scissors/
+## Screenshot
+
+![Screenshot of the game](screenshot.png)
