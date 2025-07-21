@@ -20,8 +20,6 @@ The game listens for user clicks on one of three buttons (rock, paper, or scisso
 ├── index.html # Main HTML file
 ├── style.css # Styling
 └── script.js # Game logic
-## Screenshot
 
-![Screenshot of the game](screenshot.png)
 ## Live Demo
 https://ethankotzer.github.io/rock-paper-scissors/
